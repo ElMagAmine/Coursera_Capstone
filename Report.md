@@ -1,5 +1,5 @@
 # Find Location to Build New Cinema in Hong Kong
-Capstone Project - The Battle of Neighbourhoods
+The Battle of Neighbourhoods - Final report
 
 ## Introduction
 
