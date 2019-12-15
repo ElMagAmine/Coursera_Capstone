@@ -567,7 +567,7 @@
             "metadata": {}
         }, 
         {
-            "source": "### Thank you for using this notebook!\nThis notebook was created by [Georgios Chatzis](https://www.linkedin.com/in/georgios-chatzis-01523293/). This notebook is part of the course on **Coursera** called _Data Analysis with Python_.", 
+            "source": "### Thank you for using this notebook!\nThis notebook was created by [EL MAGHRAOUI Mohamed Amine](#). This notebook is part of the course on **Coursera** called _Data Analysis with Python_.", 
             "cell_type": "markdown", 
             "metadata": {}
         }, 
